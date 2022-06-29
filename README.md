@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Hoje estou trabalhando com Front-end
-- 🌱 Estou estudando mobibe: Swift e Kotlin
-- 📫 How to reach me: ...
-- 😄 Pronouns: ele/dele
+- 🔭 iOS Software Developer | Swift | Mobile
+🔹 OOP 🔹 ViewCode 🔹 Git Version Control 🔹 UIKIt 🔹 Storyboards and Xib's 🔹 Arquitectura MVC, MVVM 🔹 Auto Layout 🔹 CocoaPods 🔹API Rest
+- 🌱 I'm improving my Swift knowledge
+- 📫 How to reach me: e-mail or LinkedIn
+- 😄 Pronouns: 
 
  <div>
   <a href="https://github.com/kleitonm">
