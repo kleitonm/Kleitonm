@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 iOS Software Developer | Swift | Mobile
-🔹 OOP 🔹 ViewCode 🔹 Git Version Control 🔹 UIKIt 🔹 Storyboards and Xib's 🔹 Arquitectura MVC, MVVM 🔹 Auto Layout 🔹 CocoaPods 🔹API Rest
+🔹 OOP 🔹 ViewCode 🔹 Git Version Control 🔹 UIKIt 🔹 Storyboards and Xib's 🔹 Arquitectura MVC, MVVM and VIP 🔹 Auto Layout 🔹 CocoaPods 🔹API Rest 🔹Modularisation
 - 🌱 I'm improving my Swift knowledge
 - 📫 How to reach me: e-mail or LinkedIn
 - 😄 Pronouns: 
